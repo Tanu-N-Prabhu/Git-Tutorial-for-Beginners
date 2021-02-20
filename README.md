@@ -33,7 +33,6 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 #### Lock - Modify - Unlock Strategy
 
 
-<!-- Feature Image along with Captions -->
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/Lock-Modify-Unlock-Strategy.PNG) | 
 |:--:| 
 | Lock - Modify - Unlock Strategy |
@@ -41,10 +40,36 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 
 #### Copy - Modify - Merge Strategy
 
-<!-- Feature Image along with Captions -->
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/Copy-Modify-Merge-Strategy.PNG) | 
 |:--:| 
 | Copy - Modify - Merge Strategy |
+
+
+Here, Jyothi (developer 2) can resolve the conflict
+* Remove her own changes and leave the last one.
+* Take some part of her implementation and then push the latest version to the server.
+
+
+### Version Control Systems Handling History
+
+| ![space-1.jpg](https://miro.medium.com/max/3396/1*GgaGcwh5L246YcU5NVDA5A.png) | 
+|:--:| 
+| Image Credits - [Medium](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffaun%2Fcentralized-vs-distributed-version-control-systems-a135091299f0&psig=AOvVaw1bXx2FflZO4sbmlAhcOotN&ust=1613869347545000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNC7__uh9-4CFQAAAAAdAAAAABAD) |
+
+> Disadvantage if the entire history is saved in the main server, we need to create some backups
+
+
+
+
+| ![space-1.jpg](https://miro.medium.com/max/1838/1*gPBljo_uRh-IBtHY2oB7ig.png) | 
+|:--:| 
+| Image Credits - [Medium](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffaun%2Fcentralized-vs-distributed-version-control-systems-a135091299f0&psig=AOvVaw1bXx2FflZO4sbmlAhcOotN&ust=1613869347545000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNC7__uh9-4CFQAAAAAdAAAAABAD) |
+
+
+> Each developer has a copy of their own repository, and he/she knows what was changed by who and what. If something happens, then we can use an individual repository as backup.
+
+
+
 
 
 
