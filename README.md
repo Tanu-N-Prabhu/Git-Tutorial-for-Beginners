@@ -70,6 +70,17 @@ Here, Jyothi (developer 2) can resolve the conflict
 
 
 
+### Git
+
+One of the popular Version Control Systems. Please read the [docs](https://git-scm.com/doc)
+
+
+
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/survey.PNG) | 
+|:--:| 
+| Image Credits - [Stack Overflow](https://insights.stackoverflow.com/survey/2018#development-practices) |
+
 
 
 
