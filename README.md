@@ -33,7 +33,10 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 #### Lock - Modify - Unlock Strategy
 
 
-
+<!-- Feature Image along with Captions -->
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/Lock-Modify-Unlock-Strategy.PNG) | 
+|:--:| 
+| Lock - Modify - Unlock Strategy |
 
 
 
