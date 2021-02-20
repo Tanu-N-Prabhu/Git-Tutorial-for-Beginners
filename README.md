@@ -82,6 +82,17 @@ One of the popular Version Control Systems. Please read the [docs](https://git-s
 | Image Credits - [Stack Overflow](https://insights.stackoverflow.com/survey/2018#development-practices) |
 
 
+#### [Dowload](https://git-scm.com/downloads) here
+
+After downloading you can check for the version in your command prompt
+
+```git
+git --version
+
+>> git version 2.30.0.windows.2
+
+```
+
 
 
 
