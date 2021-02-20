@@ -23,7 +23,19 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 * Sandboxing 
 * Branching
 
-> **Sandboxing** - Place where you can put all your sample code that you don't need to be published, just like prototyping.
+> **Sandboxing** - Place where you can put all your sample code you don’t need to be published, just like prototyping.
+
+### Two Strategies of Version Control Systems
+
+* Lock - Modify - Unlock Strategy
+* Copy - Modify - Merge Strategy
+
+#### Lock - Modify - Unlock Strategy
+
+
+
+
+
 
 
 
