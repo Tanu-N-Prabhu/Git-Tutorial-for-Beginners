@@ -112,6 +112,21 @@ git --version
 
 ---
 
+# Basic Operations
+
+## Creating a GitHub Repository and Clone it
+1. Go to [GitHub](https://github.com/) and create a new repository with a name **Git-Tutorial-For-Beginners**
+    1. Make it **Public**
+    2. Include a **README.md** file (enable this option).
+
+2. **Clone** the repository to your system. I personally use Visual Studio Code Terminal. You can use the evergreen Commmand Prompt Termial as well.
+    1. Get the clone link from the dropdown which says (Clone or Download).
+    2. Type `git clone paste_the_link`.
+    3. > Extra Material - [How to clone a github repository](https://www.youtube.com/watch?v=5RTHaVvj97I)
+
+
+
+
 
 
 
