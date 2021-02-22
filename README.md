@@ -147,6 +147,12 @@ git --version
 
 ---
 
+# Inside Git
+## Git GUI
+
+If you are working on bigger projects then use Git GUI (Graphical User Interface).
+
+1. To start [GUI](https://git-scm.com/docs/git-gui/#:~:text=git%20gui%20focuses%20on%20allowing,fetching%2Fpushing%20to%20remote%20repositories.&text=git%20gui%20is%20known%20to,under%20both%20Cygwin%20and%20MSYS) use `git gui&`
 
 
 
