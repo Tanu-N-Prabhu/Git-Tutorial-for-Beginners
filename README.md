@@ -153,6 +153,15 @@ git --version
 If you are working on bigger projects then use Git GUI (Graphical User Interface).
 
 1. To start [GUI](https://git-scm.com/docs/git-gui/#:~:text=git%20gui%20focuses%20on%20allowing,fetching%2Fpushing%20to%20remote%20repositories.&text=git%20gui%20is%20known%20to,under%20both%20Cygwin%20and%20MSYS) use `git gui&`
+2. Edit something in your file and open GUI and hit **Rescan** to see the changes.
+3. To commit from the GUI, click on the file name from the unstaged changes folder, add a commit message and click on **Commit**.
+4. You need to Push to the main repository, choose **master → origin** to push the changes.
+5. Refresh the GitHub to see the changes.
+6. **Extra Materials** - [Learn to Use the Built-in GUI Tool | Git](https://www.youtube.com/watch?v=icyOhrMNrOk)
+
+
+
+
 
 
 
