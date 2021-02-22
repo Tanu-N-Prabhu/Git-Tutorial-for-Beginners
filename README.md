@@ -37,19 +37,19 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 ## Version Control Requirements <a name="version"></a>
 
 
-* Backup and Restore
-* Synchronization
-* Undo
-* Track Changes and Ownership
-* Sandboxing 
-* Branching
+1. Backup and Restore
+2. Synchronization
+3. Undo
+4. Track Changes and Ownership
+5. Sandboxing 
+6. Branching
 
 > **Sandboxing** - Place where you can put all your sample code you don’t need to be published, just like prototyping.
 
 ## Two Strategies of Version Control Systems <a name = "two"></a>
 
-* Lock - Modify - Unlock Strategy
-* Copy - Modify - Merge Strategy
+1. Lock - Modify - Unlock Strategy
+2. Copy - Modify - Merge Strategy
 
 ### Lock - Modify - Unlock Strategy <a name = "lock"></a>
 
@@ -67,8 +67,8 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 
 
 Here, Jyothi (developer 2) can resolve the conflict
-* Remove her own changes and leave the last one.
-* Take some part of her implementation and then push the latest version to the server.
+1. Remove her own changes and leave the last one.
+2. Take some part of her implementation and then push the latest version to the server.
 
 
 ## Version Control Systems Handling History <a name = "version1"></a>
