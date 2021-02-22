@@ -116,9 +116,9 @@ git --version
 
 ---
 
-# Basic Operations
+# Basic Operations <a name="basic"></a>
 
-## Creating a GitHub Repository and Clone it
+## Creating a GitHub Repository and Clone it <a name="create"></a>
 1. Go to [GitHub](https://github.com/) and create a new repository with a name **Git-Tutorial-For-Beginners**
     1. Make it **Public**
     2. Include a **README.md** file (enable this option).
@@ -138,7 +138,7 @@ git --version
 10. Now when you **refresh** the GitHub repository you can view the changes.
 
 
-## Pull Data from the Remote
+## Pull Data from the Remote <a name="pull"></a>
 
 1. Just make some changes in your initial file ( Main Repository)
 2. But in your local system these changes will not be reflected so you need to pull the change (repository) first. Make sure you do this when you are working on a larger project.
