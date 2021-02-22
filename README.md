@@ -124,6 +124,24 @@ git --version
     2. Type `git clone paste_the_link`.
     3. **Extra Material** - [How to clone a github repository](https://www.youtube.com/watch?v=5RTHaVvj97I)
 
+3. To view the connections of your repository type in `git remote -v`.
+4. You can check the status of your repository using `git status`.
+5. You can add a new file using `git add index.html`. But the easy way to do it is to create a new html file in your Visual Studio code and then commit to your repository. 
+6. To commit, use `git commit -m “message”` will only commit the changes locally.
+7. When you refresh your GitHub you won’t see any changes, because you need to **push** the changes to the remote server.
+8. To view the log use `git log`.
+9. To push use `git push` or sometimes you can use `git push -u origin master` to push the changes.
+10. Now when you **refresh** the GitHub repository you can view the changes.
+
+
+
+
+
+
+
+
+
+
 
 
 
