@@ -26,6 +26,11 @@
     1. [Creating a GitHub Repository and Clone it](#create)
     2. [Pull Data from the Remote](#pull)
 
+3. [Inside Git](#inside)
+    1. [Git GUI](#gui)
+    2. [Git Gitk](#gitk)
+
+
 ---
 
 # Introduction <a name="introduction"></a>
@@ -147,8 +152,8 @@ git --version
 
 ---
 
-# Inside Git
-## Git GUI
+# Inside Git <a name="inside"></a>
+## Git GUI <a name="gui"></a>
 
 If you are working on bigger projects then use Git GUI (Graphical User Interface).
 
@@ -162,7 +167,7 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 
 
-## Git Gitk
+## Git Gitk <a name="gitk"></a>
 
 1. To use it type `gitk`.
 2. It is very obsolete. Mostly not used.
