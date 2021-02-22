@@ -162,6 +162,12 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 
 
+## Git Gitk
+
+1. To use it type `gitk`.
+2. It is very obsolete. Mostly not used.
+3. **Extra Materials** - [Learn to Use Gitk – the Built-in Repository Browser | Git](https://www.youtube.com/watch?v=WLL4GbdnuL8)
+
 
 
 
