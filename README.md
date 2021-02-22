@@ -14,13 +14,13 @@
 # Table of contents
 1. [Introduction](#introduction)
     1. [Why Version Control System?](#why)
-        1. [Version Control Requirements](#version)
-        2. [Two Strategies of Version Control Systems](#two)
-            1. [Lock - Modify - Unlock Strategy](#lock)
-            2. [Copy - Modify - Merge Strategy](#copy)
-        3. [Version Control Systems Handling History](#version1)
-        4. [Git](#git)
-            1. [Download](#download)
+    2. [Version Control Requirements](#version)
+    3. [Two Strategies of Version Control Systems](#two)
+        1. [Lock - Modify - Unlock Strategy](#lock)
+        2. [Copy - Modify - Merge Strategy](#copy)
+    4. [Version Control Systems Handling History](#version1)
+        1. [Git](#git)
+        2. [Download](#download)
 
 ---
 
