@@ -30,7 +30,7 @@
 
 Suppose you are working on a simple HTML project, suddenly your boss tells you to change the title of the project. Now you have another version, after that someone else comes and tells you to change the title. This keeps happening for a long time. Now in your system, you have several updated HTML files with new titles. This was the traditional way that the developer used to follow back in the day, where one cannot view what were the changes, and who changed them. This was a problem in those days, but with the help of version control systems, you can easily get the above information without having to save billions of different files in your system.
 
-### Version Control Requirements <a name="version"></a>
+## Version Control Requirements <a name="version"></a>
 
 
 * Backup and Restore
@@ -42,12 +42,12 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 
 > **Sandboxing** - Place where you can put all your sample code you don’t need to be published, just like prototyping.
 
-### Two Strategies of Version Control Systems <a name = "two"></a>
+## Two Strategies of Version Control Systems <a name = "two"></a>
 
 * Lock - Modify - Unlock Strategy
 * Copy - Modify - Merge Strategy
 
-#### Lock - Modify - Unlock Strategy <a name = "lock"></a>
+### Lock - Modify - Unlock Strategy <a name = "lock"></a>
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/Lock-Modify-Unlock-Strategy.PNG) | 
@@ -55,7 +55,7 @@ Suppose you are working on a simple HTML project, suddenly your boss tells you t
 | Lock - Modify - Unlock Strategy |
 
 
-#### Copy - Modify - Merge Strategy <a name = "copy"></a>
+### Copy - Modify - Merge Strategy <a name = "copy"></a>
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/Copy-Modify-Merge-Strategy.PNG) | 
 |:--:| 
@@ -67,7 +67,7 @@ Here, Jyothi (developer 2) can resolve the conflict
 * Take some part of her implementation and then push the latest version to the server.
 
 
-### Version Control Systems Handling History <a name = "version1"></a>
+## Version Control Systems Handling History <a name = "version1"></a>
 
 | ![space-1.jpg](https://miro.medium.com/max/3396/1*GgaGcwh5L246YcU5NVDA5A.png) | 
 |:--:| 
@@ -99,7 +99,7 @@ One of the popular Version Control Systems. Please read the [docs](https://git-s
 | Image Credits - [Stack Overflow](https://insights.stackoverflow.com/survey/2018#development-practices) |
 
 
-#### [Dowload](https://git-scm.com/downloads) here <a name = "download"></a>
+### [Dowload](https://git-scm.com/downloads) here <a name = "download"></a>
 
 After downloading you can check for the version in your command prompt
 
