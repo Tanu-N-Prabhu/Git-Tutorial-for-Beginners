@@ -22,6 +22,10 @@
         1. [Git](#git)
         2. [Download](#download)
 
+2. [Basic Operations](#basic)
+    1. [Creating a GitHub Repository and Clone it](#create)
+    2. [Pull Data from the Remote](#pull)
+
 ---
 
 # Introduction <a name="introduction"></a>
