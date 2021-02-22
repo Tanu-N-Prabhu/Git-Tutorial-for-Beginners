@@ -134,6 +134,14 @@ git --version
 10. Now when you **refresh** the GitHub repository you can view the changes.
 
 
+## Pull Data from the Remote
+
+1. Just make some changes in your initial file ( Main Repository)
+2. But in your local system these changes will not be reflected so you need to pull the change (repository) first. Make sure you do this when you are working on a larger project.
+3. To pull the change you can use `git pull origin master`.
+
+
+---
 
 
 
