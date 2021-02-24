@@ -175,6 +175,9 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 
 
+---
+
+# Inside `.git` Folder
 
 
 
