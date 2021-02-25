@@ -211,6 +211,11 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 ## Undoing Changes
 
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/undoingChanges.PNG) | 
+|:--:| 
+| Undoing Changes|
+
+
 
 
 
