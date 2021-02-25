@@ -177,7 +177,7 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 ---
 
-# Inside `.git` Folder
+## Inside `.git` Folder
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/gitFolders.PNG) | 
 |:--:| 
@@ -209,6 +209,7 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 ---
 
+## Undoing Changes
 
 
 
