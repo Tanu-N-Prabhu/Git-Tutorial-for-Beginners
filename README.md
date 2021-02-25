@@ -192,7 +192,33 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 * `ls - l`
 * `cd heads`
 * `cat master` (you will get a long integer which sorta looks like 867D3ER583FG89…)
-* 
+* Now when you open git log, the id of the commit matches the above. 
+* Whatever you commit first it would be saved in the index folder.
+* `cd objects/`
+* `ls - l`
+* Blob (Binary large Object)
+* To view what's inside a Commit - `git show -s --pretty=raw the (id of commit)`
+* To go inside a tree `git ls-tree (id)`
+* To go inside a blob `git show (blob id)`
+* Inside the blob you can find the content of the file.
+* Incase of a simple **blob 70e475949jfnu** - The first two numbers (70) represent a folder and the rest is the file.
+* `cd objects/`
+* `ls -l`
+* `cd 70`
+* Inside that you will see the file **e47---**, you can find the contents in terms of binary file.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
