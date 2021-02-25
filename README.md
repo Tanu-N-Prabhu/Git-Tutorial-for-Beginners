@@ -217,7 +217,12 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 
 
+## Git Reset
 
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/git_Reset.PNG) | 
+|:--:| 
+| Git Reset|
 
 
 
