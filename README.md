@@ -183,6 +183,10 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 |:--:| 
 | `.git` Folder |
 
+* To go into the git folder `cd .git`
+* To go into HEAD use `cd HEAD`
+
+
 
 
 
