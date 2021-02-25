@@ -183,8 +183,18 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 |:--:| 
 | `.git` Folder |
 
+**The following steps are just to view the `.git` file hierarchy. Go play around and see what's in it.**
+
 * To go into the git folder `cd .git`
 * To go into HEAD use `cd HEAD`
+* `cat HEAD`
+* `cd refs`
+* `ls - l`
+* `cd heads`
+* `cat master` (you will get a long integer which sorta looks like 867D3ER583FG89…)
+* 
+
+
 
 
 
