@@ -224,6 +224,10 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 |:--:| 
 | Git Reset|
 
+To viewback the commits use git reset
+* `git reset --soft HEAD~1 (1 indicates how many commits back)`
+
+
 
 
 
