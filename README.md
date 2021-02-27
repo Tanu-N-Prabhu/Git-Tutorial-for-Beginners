@@ -234,7 +234,12 @@ To revert back to the changes. Add `git revert id (get the commit id)`
 
 
 
+## `.gitignore`
 
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/gitignore.PNG) | 
+|:--:| 
+| `.gitignore` |
 
 
 
