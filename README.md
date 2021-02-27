@@ -30,6 +30,13 @@
     1. [Git GUI](#gui)
     2. [Git Gitk](#gitk)
 
+4. [Inside .git Folder](#dotgit)
+    1. [Undoing Changes](#undo)
+    2. [Git Reset](#reset)
+    3. [Git Revert](#revert)
+    4. [.gitignore](#ignore)
+
+
 
 ---
 
@@ -177,7 +184,8 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 ---
 
-## Inside `.git` Folder
+## Inside `.git` Folder <a name="dotgit"></a>
+
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/gitFolders.PNG) | 
 |:--:| 
@@ -209,7 +217,8 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 ---
 
-## Undoing Changes
+## Undoing Changes <a name="undo"></a>
+
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/undoingChanges.PNG) | 
 |:--:| 
@@ -217,7 +226,8 @@ If you are working on bigger projects then use Git GUI (Graphical User Interface
 
 
 
-## Git Reset
+## Git Reset <a name="reset"></a>
+
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/git_Reset.PNG) | 
@@ -228,13 +238,15 @@ To viewback the commits use git reset
 * `git reset --soft HEAD~1 (1 indicates how many commits back)`
 
 
-## Git Revert
+## Git Revert <a name="revert"></a>
+
 
 To revert back to the changes. Add `git revert id (get the commit id)`
 
 
 
-## `.gitignore`
+## `.gitignore` <a name="ignore"></a>
+
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/gitignore.PNG) | 
@@ -246,7 +258,7 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 
 
 
-
+---
 
 
 
