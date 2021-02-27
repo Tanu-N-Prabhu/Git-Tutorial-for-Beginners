@@ -241,6 +241,9 @@ To revert back to the changes. Add `git revert id (get the commit id)`
 |:--:| 
 | `.gitignore` |
 
+Gitignore will be hidden. To hide any log files place it (commit )inside the gitignore so it will be hidden. And then you play with it. 
+
+
 
 
 
