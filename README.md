@@ -228,6 +228,11 @@ To viewback the commits use git reset
 * `git reset --soft HEAD~1 (1 indicates how many commits back)`
 
 
+## Git Revert
+
+To revert back to the changes. Add `git revert id (get the commit id)`
+
+
 
 
 
