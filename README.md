@@ -305,6 +305,13 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 * To create a new branch call checkout → `git checkout -b feature`
 * `cat Head`
     * `ref: refs/heads/feature`
+* `nano song.txt`
+    * Just  add a new line or something.
+* `git add .`
+* `git commit -m “first commit in feature”`
+* `nano song.txt`
+    * `Just add another new line in the same file`
+* 
 
 
 
