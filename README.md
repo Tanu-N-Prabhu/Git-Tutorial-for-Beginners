@@ -40,7 +40,7 @@
     1. [Fast Forward Merge](#fast)
     2. [Non Fast Forward Merge](#non)
     3. [Conflict Resolving](#conflict)
-    4. [Git Rebase]((#rebase)
+    4. [Git Rebase](#rebase)
    
 
 
