@@ -295,6 +295,16 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 
 
 
+### Creating a new branch
+
+* `cd .git`
+* `ls - l`
+* `cat HEAD`
+    * `ref: refs/heads/master`
+* `cd ..`
+* To create a new branch call checkout → `git checkout -b feature`
+* `cat Head`
+    * `ref: refs/heads/feature`
 
 
 
