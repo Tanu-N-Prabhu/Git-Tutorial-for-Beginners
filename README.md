@@ -261,6 +261,24 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 ---
 
 
+# Branches and Merges
+
+**In git everything is built using Graphs (nodes).**
+
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/branch.PNG) | 
+|:--:| 
+|Branch and Merge |
+
+* Open Git K using `gitK` to see all commits. 
+* Each branch is a feature. 
+* After finishing the feature we can finally **merge** them to the master. 
+
+---
+
+
+
+
 
 
 
