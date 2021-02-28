@@ -36,6 +36,13 @@
     3. [Git Revert](#revert)
     4. [.gitignore](#ignore)
 
+5. [Branches and Merges](#branch)
+    1. [Fast Forward Merge](#fast)
+    2. [Non Fast Forward Merge](#non)
+    3. [Conflict Resolving](#conflict)
+    4. [Git Rebase]((#rebase)
+   
+
 
 
 ---
@@ -261,7 +268,8 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 ---
 
 
-# Branches and Merges
+# Branches and Merges <a name="branch"></a>
+
 
 **In git everything is built using Graphs (nodes).**
 
@@ -276,7 +284,8 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 
 ---
 
-## Fast Forward Merge
+## Fast Forward Merge <a name="fast"></a>
+
 
 
 | ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/branchtype1.PNG) | 
