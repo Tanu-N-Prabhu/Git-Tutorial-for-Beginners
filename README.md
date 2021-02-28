@@ -311,7 +311,23 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 * `git commit -m “first commit in feature”`
 * `nano song.txt`
     * `Just add another new line in the same file`
-* 
+* `git status - modified song.txt`
+* `git commit -m “second commit in feature”`
+* `git status - Nothing to commit`
+* `git log to see changes  -- commit was second one ((HEAD → feature)`
+* Let us switch to master
+    * `git checkout master`
+    * `git log -- commit was another one (HEAD → master)`
+* Merge the feature to the master branch
+    * To merge you must always be in the master branch
+    * `git merge feature`
+        * Fast Forward
+        * `git log → (HEAD → master, feature)`
+
+---
+
+
+
 
 
 
