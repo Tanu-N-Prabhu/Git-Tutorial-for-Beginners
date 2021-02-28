@@ -276,6 +276,23 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 
 ---
 
+## Fast Forward Merge
+
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/branchtype1.PNG) | 
+|:--:| 
+|Fast Forward Merge |
+
+* A, B, C are commits.
+* HEAD will always point to the latest commit.
+
+
+
+
+| ![space-1.jpg](https://github.com/Tanu-N-Prabhu/Git-Tutorial-for-Beginners/blob/main/Img/fastforward.PNG) | 
+|:--:| 
+|Fast Forward Merge|
+
 
 
 
