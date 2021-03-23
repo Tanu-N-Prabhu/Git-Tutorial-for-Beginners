@@ -336,6 +336,8 @@ Gitignore will be hidden. To hide any log files place it (commit )inside the git
 
 ---
 
+## Non Fast Forward Merge
+
 
 
 
